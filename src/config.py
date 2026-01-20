@@ -45,4 +45,4 @@ HISTORY_WINDOW_SIZE = 3  # 对话历史窗口大小
 # ==================== API配置 ====================
 
 # 设置 API Key
-DASHSCOPE_API_KEY = "sk-b6c13c57c648404b95bbffb80baa0133"
+DASHSCOPE_API_KEY = ""
