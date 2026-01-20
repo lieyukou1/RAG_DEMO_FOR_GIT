@@ -45,4 +45,4 @@ HISTORY_WINDOW_SIZE = 3  # 对话历史窗口大小
 # ==================== API配置 ====================
 
 # 设置 API Key
-DASHSCOPE_API_KEY = ""
+DASHSCOPE_API_KEY = "请输入你的千问3API"
