@@ -1,0 +1,2 @@
+dashscope>=1.20.0
+chromadb>=0.4.22
